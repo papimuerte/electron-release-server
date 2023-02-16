@@ -12,7 +12,7 @@
  * http://sailsjs.org/#!/documentation/reference/sails.config/sails.config.session.html
  */
 
-module.exports.session = {
+//module.exports.session = {
   // XXX: Enable this if you are using postgres as your database
   // If so, be sure to run the sql command detailed here: https://github.com/ravitej91/sails-pg-session
 
